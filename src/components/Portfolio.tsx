@@ -1,5 +1,3 @@
-import React from "react";
-
 const Portfolio = () => {
   return (
     <div className="flex flex-col  mt-6">
